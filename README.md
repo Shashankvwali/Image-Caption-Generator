@@ -1,0 +1,1 @@
+Developed a website which leverages a ResNet CNN for robust image feature extraction and a Transformer for sophisticated caption generation, trained on the diverse Flickr8k dataset to produce accurate and contextually relevant image captions.
